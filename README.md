@@ -1,1 +1,1 @@
-# News-App-Reacct-Application-
+# News-App-React-Application-
